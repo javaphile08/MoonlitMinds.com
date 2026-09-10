@@ -14,7 +14,7 @@ MoonlitMinds.com adalah ruang digital estetik bertema fairyindie untuk pelacakan
 ## 🚀 Cara Penggunaan
 
 ### 1. Buka Website
-Buka `index.html` di browser Anda (atau deploy ke hosting statis).
+Buka `MoonlitMinds.com` di browser Anda.
 
 ### 2. Catat Aktivitas
 - Masukkan nama aktivitas
@@ -58,7 +58,7 @@ Ide, saran, atau perbaikan sangat diterima! Silakan buat issue atau diskusi untu
 
 **Dibuat dengan 💙 untuk mereka yang ingin tumbuh perlahan, dengan konsisten, di bawah cahaya bulan.**
 
-*"Satu langkah kecil hari ini lebih berat daripada seribu niat untuk besok."*<!DOCTYPE html>
+*"Satu langkah kecil hari ini lebih berat daripada seribu niat untuk besok."
 <html lang="id">
 <head>
 <meta charset="UTF-8">

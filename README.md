@@ -53,7 +53,6 @@ Ide, saran, atau perbaikan sangat diterima! Silakan buat issue atau diskusi untu
 - Improvement desain
 - Bug reports
 - Saran kutipan
-
 ---
 
 **Dibuat dengan 💙 untuk mereka yang ingin tumbuh perlahan, dengan konsisten, di bawah cahaya bulan.**
